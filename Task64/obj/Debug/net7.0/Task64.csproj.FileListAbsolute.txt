@@ -1,0 +1,15 @@
+/workspaces/HW23.11.23/Task64/bin/Debug/net7.0/Task64
+/workspaces/HW23.11.23/Task64/bin/Debug/net7.0/Task64.deps.json
+/workspaces/HW23.11.23/Task64/bin/Debug/net7.0/Task64.runtimeconfig.json
+/workspaces/HW23.11.23/Task64/bin/Debug/net7.0/Task64.dll
+/workspaces/HW23.11.23/Task64/bin/Debug/net7.0/Task64.pdb
+/workspaces/HW23.11.23/Task64/obj/Debug/net7.0/Task64.csproj.AssemblyReference.cache
+/workspaces/HW23.11.23/Task64/obj/Debug/net7.0/Task64.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/HW23.11.23/Task64/obj/Debug/net7.0/Task64.AssemblyInfoInputs.cache
+/workspaces/HW23.11.23/Task64/obj/Debug/net7.0/Task64.AssemblyInfo.cs
+/workspaces/HW23.11.23/Task64/obj/Debug/net7.0/Task64.csproj.CoreCompileInputs.cache
+/workspaces/HW23.11.23/Task64/obj/Debug/net7.0/Task64.dll
+/workspaces/HW23.11.23/Task64/obj/Debug/net7.0/refint/Task64.dll
+/workspaces/HW23.11.23/Task64/obj/Debug/net7.0/Task64.pdb
+/workspaces/HW23.11.23/Task64/obj/Debug/net7.0/Task64.genruntimeconfig.cache
+/workspaces/HW23.11.23/Task64/obj/Debug/net7.0/ref/Task64.dll
