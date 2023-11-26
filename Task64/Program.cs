@@ -30,10 +30,7 @@ int ShowNaturalNumbers(int m, int n){
         return 0;
         }
     else if(m>n) {
-        int temp = m;
-        m = n;
-        n = temp;
-        return ShowNaturalNumbers(m, n);
+        return ShowNaturalNumbers(n, m);
     }
     else if (m > 0 && m < n) {
         Console.Write($"{m}\t");
