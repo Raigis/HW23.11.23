@@ -25,10 +25,7 @@ void Start(){
 int SumNaturalNumbers(int m, int n, int sum = 0){
     if(m <= 0 && n <= 0) return sum;
     else if (m > n) {
-        int temp = m;
-        m = n;
-        n = temp;
-        return SumNaturalNumbers(m, n);
+        return SumNaturalNumbers(n, m);
     }
     else if (m > 0 && m < n) {
         sum += m++;
