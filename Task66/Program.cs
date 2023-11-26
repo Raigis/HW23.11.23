@@ -24,13 +24,20 @@ void Start(){
 
 int SumNaturalNumbers(int m, int n, int sum = 0){
     if(m <= 0 && n <= 0) return sum;
-    else if (m > 0 && m <= n) {
+    else if (m > n) {
+        int temp = m;
+        m = n;
+        n = temp;
+        return SumNaturalNumbers(m, n);
+    }
+    else if (m > 0 && m < n) {
         sum += m++;
         return SumNaturalNumbers(m, n, sum);
     }
     else if (m <= 0){
         return SumNaturalNumbers(++m, n);
     }
+    sum += m;
     return sum;
      
 }

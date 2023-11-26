@@ -1,0 +1,15 @@
+/workspaces/HW23.11.23/Task68/obj/Debug/net7.0/Task68.csproj.AssemblyReference.cache
+/workspaces/HW23.11.23/Task68/obj/Debug/net7.0/Task68.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/HW23.11.23/Task68/obj/Debug/net7.0/Task68.AssemblyInfoInputs.cache
+/workspaces/HW23.11.23/Task68/obj/Debug/net7.0/Task68.AssemblyInfo.cs
+/workspaces/HW23.11.23/Task68/obj/Debug/net7.0/Task68.csproj.CoreCompileInputs.cache
+/workspaces/HW23.11.23/Task68/bin/Debug/net7.0/Task68
+/workspaces/HW23.11.23/Task68/bin/Debug/net7.0/Task68.deps.json
+/workspaces/HW23.11.23/Task68/bin/Debug/net7.0/Task68.runtimeconfig.json
+/workspaces/HW23.11.23/Task68/bin/Debug/net7.0/Task68.dll
+/workspaces/HW23.11.23/Task68/bin/Debug/net7.0/Task68.pdb
+/workspaces/HW23.11.23/Task68/obj/Debug/net7.0/Task68.dll
+/workspaces/HW23.11.23/Task68/obj/Debug/net7.0/refint/Task68.dll
+/workspaces/HW23.11.23/Task68/obj/Debug/net7.0/Task68.pdb
+/workspaces/HW23.11.23/Task68/obj/Debug/net7.0/Task68.genruntimeconfig.cache
+/workspaces/HW23.11.23/Task68/obj/Debug/net7.0/ref/Task68.dll
